@@ -1,4 +1,4 @@
-# BNF-Expression
+# BNF
 
 Consider the following expression BNF:
 
